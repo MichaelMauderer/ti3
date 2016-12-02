@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/MichaelMauderer/ti3.svg?token=73A2LZFM6qNsQiF3WCPF&branch=develop)](https://travis-ci.com/MichaelMauderer/ti3)
 
 # A wrapper for accessing the data of a ti3 file.
 
